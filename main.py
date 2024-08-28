@@ -10,10 +10,10 @@ import base64
 import io
 
 # Telegram bot token
-API_TOKEN = "___TELEGRAM_BOT_TOKEN___"
+API_TOKEN = "7503998035:AAHgRrfj-BwBS_6WIL7aeAjVnkrYHbuGNXg"
 
 # ProbivAPI secret key
-PROBIVAPI_KEY = "___PROBIVAPI_KEY___"
+PROBIVAPI_KEY = "838f0fbc-a7b2-4394-b006-81fd12576960"
 
 # Initialize bot and dispatcher
 bot = Bot(token=API_TOKEN)
